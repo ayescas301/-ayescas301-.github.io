@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html><h1>Austin Yescas<h1><div id="myName"></div>
+<head>
+  <title>Austin Yescas BMGT 301 Website</title>
+  <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"/>
+  <link href='https://fonts.googleapis.com/css?family=Roboto:300,400,700' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" type="text/css" href="main.css">
+</head>
+
+<body>
+  <header class="container">
+    <div class="row">
+      <h1 class="col-sm-8">Austin Yescas BMGT 301 Website</h1>
+      <nav class="topthreeparagraphs">
+        <p>BMGT466</p>
+        <p>BMGT289</p>
+        <p>BMGT380</p>
+      </nav>
+    </div>
+  </header>
+  <section class="jumbotron">
+    <div class="container">
+      <div class="row text-center">
+        <h2>BMGT301</h2>
+        <h3>Web Development</h3>
+        <a class="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80">Visit this cool website</a>
+      </div>
+    </div>
+  </section> 
+  <section class="container">
+    <div class="row">
+      <div class="col-sm-6">
+        <p>firstfav</p><div id="firstfav">=</div>
+        <img src="https://static1.squarespace.com/static/518ff6b3e4b0cf61a012d1dd/t/59c593422aeba5f5e8db5064/1506120542139/Bucky+-+Fly+Fishing+Collaborative-7.jpg?format=2500w">
+      </div>
+      <div class="col-sm-6">
+        <p>secondfav</p><div id="secondfav">=</div>
+        <img src="https://shop.r10s.jp/westmusic/cabinet/05842895/imgrc0070021436.jpg">
+      </div>
+      <div class="col-sm-6">
+        <p>thirdfav</p><div id="thirdfav">=</div>
+        <img src="http://www.gplink.com/wp-content/uploads/2014/10/Lisa-K-73.jpg">
+      </div>
+      <div class="col-sm-6">
+        <p>fourthfav</p><div id="fourthfav">=</div>
+        <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082011/slb_logo.png?itok=WVHFFoB2">
+         <section class="container"><h3>Favorite Quotes 
+           <id="firstquote"><li> every champion was once a contender who refused to give up 
+           <id="secondquote"><li> hard work beats talent when talent doesn't work hard
+           <id="thirdquote"><li> pura vida
+           
+           
+      </div>
+    </div>
+    <div class="row text-center">
+      <a class="btn btn-secondary" href="#">View Complete Catalogue</a>
+    </div>
+  </section>
+  <footer class="container">
+    <div class="row">
+      <p class="col-sm-4">&copy; 2019 BMGT301</p>
+      <ul class="col-sm-8">
+        <li class="col-sm-1">
+          <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/twitter.svg">
+        </li>
+        <li class="col-sm-1">
+          <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/facebook.svg">
+        </li>
+        <li class="col-sm-1">
+          <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/instagram.svg">
+        </li>
+        <li class="col-sm-1">
+          <img src="https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-4/medium.svg">
+        </li>
+      </ul>
+    </div>
+  </footer>
+</body>
+    
+
+</html>
+
